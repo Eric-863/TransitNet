@@ -6,8 +6,8 @@ All resources will be open-sourced and released here as soon as possible.
 
 Datasets Used in This Study
 - Pascal VOC2012: http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
-- OST300: https://github.com/lyakaap/OSVOS-Training
-- LoveAD: https://github.com/JingliangCheng/LoveAD 
+- OST300: https://opendatalab.com/OpenDataLab/OST300/tree/main
+- LoveAD: https://github.com/Junjue-Wang/LoveDA
 
 
 
