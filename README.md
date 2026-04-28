@@ -1,8 +1,9 @@
 # TransitNet
 
 The experimental environment configuration file (`requirements.txt`), complete source code, and official access links for all external datasets (Pascal VOC2012, OST300, LoveAD) utilized in this work are now publicly available.
+All datasets adopted in this study are organized and arranged following the standard Pascal VOC dataset format for unified and convenient model training and evaluation.
 
-All remaining model resources and pre-trained weights will be continuously supplemented and fully open-sourced at this repository as soon as possible.
+All model resources and pre-trained weights have been fully released and permanently accessible at this repository.
 
 ## Model Weights
 The pre-trained model weights of TransitNet can be downloaded via Baidu Netdisk:
